@@ -3,7 +3,7 @@ This repository is the code for inference and evaluation for patent claim revisi
 
 ## Dataset
 
-Original dataset can be downloaded [here](https://huggingface.co/datasets/lj408/Patent-CR).
+Data could be retrieved from the European Patent Office (EPO) using the script in the ```data``` folder. 
 
 ## Inference
 
